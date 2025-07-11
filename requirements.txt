@@ -2,8 +2,6 @@ streamlit
 requests
 textblob
 transformers
-nltk
-pandas
-matplotlib
-seaborn
 torch
+pandas
+nltk
