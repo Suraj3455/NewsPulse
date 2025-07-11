@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+matplotlib
+seaborn
+nltk
+transformers
+torch
+python-dotenv
+fpdf
