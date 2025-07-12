@@ -24,7 +24,7 @@ summarizer = load_summarizer()
 vader_analyzer = SentimentIntensityAnalyzer()
 
 # ✅ NewsAPI Key
-api_key = "380a2141d0b34d91931aa5a856a37d6f"
+api_key = "88adf97bc6924ef7a83334bf4b08af0e"
 
 # ✅ News fetch function
 def fetch_news(category=None, keyword=None, use_everything=False):
