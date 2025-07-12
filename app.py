@@ -28,11 +28,7 @@ def load_summarizer():
 summarizer = load_summarizer()
 vader_analyzer = SentimentIntensityAnalyzer()
 
-<<<<<<< HEAD
-# ✅ NewsAPI Key
-=======
-# API Key
->>>>>>> fd2ebf5 (Updated app.py with WordCloud and Publisher Chart)
+# API Key for NewsAPI
 api_key = "88adf97bc6924ef7a83334bf4b08af0e"
 
 # News Fetcher
