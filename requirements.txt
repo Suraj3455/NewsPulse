@@ -3,6 +3,8 @@ requests
 textblob
 transformers
 torch
-pandas
 nltk
-gTTS
+wordcloud
+matplotlib
+pandas
+gtts
